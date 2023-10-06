@@ -1,0 +1,75 @@
+body{
+	font-family: Arial, Verdana, sans-serif;
+	color: beige;
+	font-size: 10pt;
+	background-image: url(black.png);
+}
+.tarolo{
+	width: 90%;
+	max-width: 900px;
+	margin: auto;
+	background-color: rgb(211,211,211);
+}
+.fejlec{
+	margin:0;
+	padding:0;
+}
+.fejlec img{
+	width: 100%;
+}
+.nav{
+	background-color: rgb(51,51,51);
+	margin-top: 0;
+	padding:15px 0px;
+	
+}
+.nav a{
+	text-decoration: none;
+	color:white;
+	padding:15px;
+	border: 1px solid white; 
+	margin:0;
+	font-weight: bold;
+	
+}
+
+.nav a:hover, a:active{
+	background-color: rgb(255,125,7);
+	
+}
+.tartalom img{
+	float: right;
+	width:30%;
+	color: black;
+	margin-left: 10px;
+}
+.tartalom{
+	padding: 15px;
+}
+
+.lablec{
+	background-color: rgb(249,169,0);
+	color: black;
+}
+.lablec p{
+	text-align: center;
+}
+
+p{
+	text-align: justify;
+	font-size: 10px;
+	color: black;
+}
+h1{
+	font-size: 15px;
+	color: black;
+}
+
+li{
+	list-style: square;
+	font-size: 10px;
+	color: black;
+}
+.torles{
+	clear:both;
+}
